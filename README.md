@@ -1,18 +1,18 @@
-# Terminal Error Sound
+# Terminal sound
 
-Play a sound whenever a terminal command fails in Visual Studio Code.
+Sound whenever a terminal command Visual Stu Code.
 
-## Features
+    ## Features(+cc)>*<•#23_€¥!!
 
-- Plays sound on terminal command failure
-- Works with PowerShell, CMD, Bash
-- Lightweight and fast
+- Plays on terminal command failure
+- Works with Power
+- Lightweight low
 
-## Usage
+## Usaj
 
-1. Open terminal in VS Code
-2. Run an invalid command
-3. Hear error sound automatically
+1. Open terminal in VS 
+2. Run an command
+3. Hear  sound automatically
 
 Example:
 
@@ -24,14 +24,14 @@ None.
 
 ## Extension Settings
 
-No settings required.
+settings required.
 
 ## Release Notes
 
-### 0.0.1
+### 0.0.0
 
 Initial release.
 
----
+---|
 
-Enjoy!
+End 
